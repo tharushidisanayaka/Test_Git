@@ -7,4 +7,6 @@ F1.txt
 #ignore all .class files
 *.class
 
-F2.pdf
+#ignore the content in the following folders
+bin/
+lib/
